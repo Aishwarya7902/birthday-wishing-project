@@ -1,0 +1,25 @@
+#Lightbox{
+	height: 0px;
+	width: 0px;
+	position: fixed;
+	left: 0;
+	right: 0;
+	overflow: hidden;
+	transition: all 2s ease-in-out;
+}
+#Lightbox:target{
+	height: 30%;
+	width: 30%;
+	
+	left: 25%;
+	top: 25%;
+	
+
+	background-color: #ef5350;
+	padding: 2px;
+	border-radius: 20%;
+}
+p{
+	font-family: cursive;
+	font-weight: bold;
+}
