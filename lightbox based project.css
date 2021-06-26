@@ -23,3 +23,9 @@ p{
 	font-family: cursive;
 	font-weight: bold;
 }
+#div1{
+	font-size: 50px;
+}
+body{
+	background-image: url(https://images.pexels.com/photos/2064632/pexels-photo-2064632.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
